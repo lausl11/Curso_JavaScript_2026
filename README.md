@@ -1,1 +1,4 @@
-# Maria-express-site-infomativo
+# Informações
+Canal: "curso em video" - Gustavo Guanabara
+
+conteudo: JavaScript
